@@ -9,7 +9,7 @@ class Cancion {
     - anioLanzamiento: Integer
     - cantReproducciones: Integer
     - ultimaReproduccion: Tiempo
-    - popularidad: ???
+    - popularidad: Popularidad
 }
 
 class Artista {
